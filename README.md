@@ -1,6 +1,6 @@
 Overview
 
-Glitch Escape is a simple 2D top-down shooter developed using Unity as part of an intermediate game development module.
+Escape is a simple 2D top-down shooter developed using Unity as part of an intermediate game development module.
 The game focuses on implementing core Unity systems such as prefabs, coroutines, physics-based movement, and collision detection.
 
 Gameplay
